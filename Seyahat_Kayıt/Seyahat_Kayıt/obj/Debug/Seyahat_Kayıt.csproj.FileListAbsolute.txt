@@ -1,0 +1,10 @@
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\bin\Debug\Seyahat_Kayıt.exe.config
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\bin\Debug\Seyahat_Kayıt.exe
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\bin\Debug\Seyahat_Kayıt.pdb
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.csprojAssemblyReference.cache
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.Form1.resources
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.Properties.Resources.resources
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.csproj.GenerateResource.cache
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.exe
+C:\Users\savaş\source\repos\Seyahat_Kayıt\Seyahat_Kayıt\obj\Debug\Seyahat_Kayıt.pdb

@@ -7,4 +7,4 @@
 - select a seat from the top left.
 - Finally, the flight number and customer information are entered and completed.
 
-![appimage](desktop/Capture.png)
+![appimage](https://www.hizliresim.com/1m2zg6f)

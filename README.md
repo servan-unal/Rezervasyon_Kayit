@@ -1,4 +1,4 @@
-# a reservation registration app
+# Reservation Registration App
 
 ## how to use
 - the first thing to do is to create a captain.
